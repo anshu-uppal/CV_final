@@ -49,7 +49,7 @@ strip_links_from_cols <- function(data, cols_to_strip){
 print_section <- function(position_data, section_id){
   position_data %>% 
     filter(section == section_id) %>% 
-    arrange(desc(end)) %>% 
+    arrange(sort) %>% 
     mutate(id = 1:n()) %>% 
     pivot_longer(
       starts_with('description'),
@@ -76,7 +76,7 @@ print_section <- function(position_data, section_id){
         map_chr(descriptions, ~paste('-', ., collapse = '\n'))
       )
     ) %>% 
-    strip_links_from_cols(c('title', 'description_bullets')) %>% 
+    # strip_links_from_cols(c('title', 'description_bullets')) %>% 
     mutate_all(~ifelse(is.na(.), 'N/A', .)) %>% 
     glue_data(
       "### {title}",

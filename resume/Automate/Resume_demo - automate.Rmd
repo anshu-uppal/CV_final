@@ -101,9 +101,7 @@ build_skill_bars(skills)
 ```  
   
   
-Experienced in statistical analysis, statistical learning models, and optimization methods.
-
-Full experience with next generation sequencing data analysis.
+Experienced in statistical analysis of complex datasets, and
 
 Interests {#skills}
 --------------------------------------------------------------------------------
@@ -154,27 +152,6 @@ Experience {data-icon=suitcase}
 ```{r}
 position_data %>% print_section('industry')
 ```
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
 
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------

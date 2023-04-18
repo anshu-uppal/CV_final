@@ -152,8 +152,28 @@ Experience {data-icon=suitcase}
 position_data %>% print_section('industry')
 ```
 
-Selected Publications {data-icon=file}
+Publications {data-icon=file}
 --------------------------------------------------------------------------------
+
+### How the COVID-19 Pandemic Alters the Landscapes of the HIV and Tuberculosis Epidemics in South Africa: A Case Study and Future Directions
+
+*Epidemiologia* 3(2), 297-313
+
+N/A
+
+2022
+
+Eike D, Hogrebe M, Kifle D, Tregilgas M, ***Uppal A***, Calmy A
+
+### Sex-Specific Life History Affected by Stocking in Juvenile Brown Trout
+
+*Frontiers in Ecology and Evolution* 10:869925
+
+N/A
+
+2022
+
+Palejowski H, Bylemans J, Ammann V, Marques da Cunha L, Nusbaumer D, Castro I, ***Uppal A***, Mobley KB, Knörr S, Wedekind C
 
 ### No additive genetic variance for tolerance to ethynylestradiol exposure in natural populations of brown trout (*Salmo trutta*)
 
@@ -173,7 +193,7 @@ N/A
 
 2017
 
-Maitre D, Selmoni OM, ***Uppal A***, Marques da Cunha L, Wilkins LGE, Roux J, et al.
+Maitre D, Selmoni OM, ***Uppal A***, Marques da Cunha L, Wilkins LGE, Roux J, Mobley KB, Castro I, Knörr S, Robinson-Rechavi M, Wedekind C
 
 ### Genetic correlations and little genetic variance for reaction norms may limit potential for adaptation to pollution by ionic and nanoparticulate silver in a whitefish (Salmonidae)
 

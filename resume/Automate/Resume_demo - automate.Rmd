@@ -100,8 +100,7 @@ Skills {#language_skills}
 build_skill_bars(skills)
 ```  
   
-  
-Experienced in statistical analysis of complex datasets, and
+Experienced in statistical analysis, data visualization, reporting, and communication
 
 Interests {#skills}
 --------------------------------------------------------------------------------
@@ -122,7 +121,7 @@ Main
 Anshu Uppal {#title}
 --------------------------------------------------------------------------------
 
-### Currently searching for a PhD student position
+<!-- ### Currently searching for a PhD student position -->
 
 ```{r}
 print_text_block(text_blocks, 'intro')
@@ -156,7 +155,7 @@ position_data %>% print_section('industry')
 Selected Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### No additive genetic variance for tolerance to ethynylestradiol exposure in natural populations of brown trout (Salmo trutta)
+### No additive genetic variance for tolerance to ethynylestradiol exposure in natural populations of brown trout (*Salmo trutta*)
 
 *Evolutionary Applications* 12: 940–950
 

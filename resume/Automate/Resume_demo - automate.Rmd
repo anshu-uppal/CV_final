@@ -78,7 +78,7 @@ Aside
 ================================================================================
 
 
-![Anshu Uppal](https://github.com/anshu-uppal/CV_final/blob/main/resume/CV%20photo.jpeg?raw=true){width=100%}
+![Anshu Uppal](/Users/Anshu/switchdrive/CV_final/resume/CV photo.jpeg){width=100%}
 
 
 Contact Info {#contact}
@@ -94,24 +94,22 @@ Languages {#language_skills}
 ```{r}
 build_skill_bars(language_skills)
 ```
-Skills {#language_skills}
+Software {#software}
 --------------------------------------------------------------------------------
 ```{r}
 build_skill_bars(skills)
 ```  
-  
-Experienced in statistical analysis, data visualization, reporting, and communication
+Skills {#skills}
+--------------------------------------------------------------------------------  
+Data wrangling, statistical and spatial analyses, data visualization and mapping, reporting and communication
 
-Interests {#skills}
+Interests {#interests}
 --------------------------------------------------------------------------------
-Ultimate frisbee, hiking, reading, Dungeons & Dragons
+Running, hiking, ultimate frisbee, reading
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
-
-This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
-Last updated on `r Sys.Date()`.
+This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown). Last updated on `r Sys.Date()`.
 
 
 
@@ -121,7 +119,6 @@ Main
 Anshu Uppal {#title}
 --------------------------------------------------------------------------------
 
-<!-- ### Currently searching for a PhD student position -->
 
 ```{r}
 print_text_block(text_blocks, 'intro')

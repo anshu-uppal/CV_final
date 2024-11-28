@@ -80,10 +80,8 @@ Aside
 
 ![Anshu Uppal](/Users/Anshu/switchdrive/CV_final/resume/CV photo.jpeg){width=100%}
 
-
-Contact Info {#contact}
+{#contact}
 --------------------------------------------------------------------------------
-
 ```{r}
 contact_info %>% 
   glue_data("- <i class='fa fa-{icon}'></i> {contact}")

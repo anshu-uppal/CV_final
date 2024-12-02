@@ -27,7 +27,7 @@ library(glue)
 # done.
 
 # Is data stored in google sheets? If no data will be gather from the csvs/
-# folder in project
+# folder in project.
 using_googlesheets <- TRUE
 
 # Just the copied URL from the sheet
